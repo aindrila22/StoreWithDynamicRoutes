@@ -1,0 +1,31 @@
+ [
+    {
+      "id":1,
+      "name":"Shatin",
+      "src":"https://www.yata.hk/media/mcjnk143/st.jpg?width=232&height=142&mode=crop",
+      "dep":"Ichida Department",
+      "detail":"Ichida Sada store flagship store 帶 來 all new face, shopping place 1 樉 and part 份 2 樓, 4 major new theme stores, comprehensive '#Beauty +', '#Fashion +', '#Sport +', '#Food +', average Joined 4 large-scale new establishment, comprehensive import service, new self-help silver machine, cash register, YATA-Fans hand machine profitable app, customer '+' purchase surprise and marketing, new reception Generational voluntary consumption model, taste Clan unequal demand demanding capital can primary oversatisfaction!"
+    },
+    {
+        "id":2,
+        "name":"New Gan",
+        "src":"https://www.yata.hk/media/y1ilbw33/mkk.jpg?width=232&height=142&mode=crop",
+        "dep":"Ichida Choichi",
+        "detail":"Takumi Gastronomy Composition, Ichida Choichi (Mongkok) MOKO New Century Hiroba 5 樓 Opened. Buy, eat, eat at the same time, go to the store, Mong Kok restaurant, enjoy the restaurant, customer Mong Kok simple food, go to Ichida supermarket, selected ingredients, home-made supermarket, Shinsui gastronomy, breakthrough Mongkok Purchasing Science Combined, Gourmet Food"
+      },
+      {
+        "id":3,
+        "name":"Small Mortality",
+        "src":"https://www.yata.hk/media/t0zdr5v3/sly.jpg?width=232&height=142&mode=crop",
+        "dep":"KONBINI by YATA",
+        "detail":"Yuichida, the head of all ports, was born 'KONBINI Convenient Store by YATA', with an area of ​​3,771 feet. KONBINI defeated super-city stile, concept for 'quick buying, fast boiling, fast food', gathering formula fresh food ingredients, rhythmic simultaneous pursuit Early afternoon. KONBINI Convenience store with the highest degree of Japanese brand, Secoma, a large amount of Hokkaido products, Ichida, a large amount of Hokkaido products, and a Japanese convenience store with raw soup!"
+      },
+      {
+        "id":4,
+        "name":"Mong Kok",
+        "src":"https://www.yata.hk/media/2qxp2kdt/mk.jpg?width=232&height=142&mode=crop",
+        "dep":"Ichida Choichi",
+        "detail":"Takumi Gastronomy Composition, Ichida Choichi (Mongkok) MOKO New Century Hiroba 5 樓 Opened. Buy, eat, eat at the same time, go to the store, Mong Kok restaurant, enjoy the restaurant, customer Mong Kok simple food, go to Ichida supermarket, selected ingredients, home-made supermarket, Shinsui gastronomy, breakthrough Mongkok Purchasing Science Combined, Gourmet Food"
+      }
+  
+  ]
